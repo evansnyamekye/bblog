@@ -1,6 +1,3 @@
-# frozen_string_literal: true
-
-# ApplicationHelper provides helper methods for views.
 class CreateUsers < ActiveRecord::Migration[7.1]
   def change
     create_table :users do |t|
