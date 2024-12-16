@@ -12,7 +12,6 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-# ApplicationHelper provides helper methods for views.
 ActiveRecord::Schema[7.1].define(version: 20_241_128_112_020) do
   # These are extensions that must be enabled in order to support this database
   enable_extension 'plpgsql'
